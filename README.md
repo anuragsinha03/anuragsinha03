@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **building efficient and scalable backend**
 
-- 👨‍💻 All of my projects are available at [https://anuragsinha.vercel.app/](https://portfolio.anuragsinha.tech/)
+- 👨‍💻 All of my projects are available at [https://anuragsinha.vercel.app/](https://anuragsinha.vercel.app/)
 
 - 💬 Ask me about **building RESTful APIs**
 
