@@ -1,5 +1,5 @@
-# 💫 About Me:
-💻 Hey there, I'm Anurag Sinha!<br>🔭 I’m currently working on full-stack applications and exploring real-time systems.<br>👯 I’m open to collaborating on web development, APIs, and real-time communication projects.<br>🤝 I’m interested in learning more about WebRTC, distributed systems, and database optimization.<br>🌱 I’m currently expanding my knowledge in Java Springboot, performance optimizations, and scalable backend architectures.<br>💬 Ask me about JavaScript, React, Node.js, WebSockets, API design, Microservices, Docker and DevOps.<br>⚡ Fun fact about me is that I once built a project just to see if I could — and it actually worked! Now I’m hooked on experimenting and turning wild ideas into code.
+# 💻 Hey there, I'm Anurag Sinha!<br>
+🔭 I’m currently working on full-stack applications and exploring real-time systems.<br>👯 I’m open to collaborating on web development, APIs, and real-time communication projects.<br>🤝 I’m interested in learning more about WebRTC, distributed systems, and database optimization.<br>🌱 I’m currently expanding my knowledge in Java Springboot, performance optimizations, and scalable backend architectures.<br>💬 Ask me about JavaScript, React, Node.js, WebSockets, API design, Microservices, Docker and DevOps.<br>⚡ Fun fact about me is that I once built a project just to see if I could — and it actually worked! Now I’m hooked on experimenting and turning wild ideas into code.
 
 
 ## 🌐 Socials:
@@ -12,13 +12,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=anuragsinha03&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsinha03&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anuragsinha03&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anuragsinha03&icon=0&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
